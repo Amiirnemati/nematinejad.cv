@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Business Card — Mohammadali Nemati Nejad</title>
+  <style>
+    @page { size: 90mm 50mm; margin: 0; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Space Grotesk", "Inter", system-ui, sans-serif; background: #111; display: flex; flex-wrap: wrap; gap: 24px; padding: 40px; justify-content: center; }
+    .card {
+      width: 90mm; height: 50mm;
+      background: #071426;
+      color: #C8D0D9;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+    }
+    .card.front { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 8mm; }
+    .card.back { padding: 7mm 8mm; display: flex; flex-direction: column; justify-content: space-between; }
+    .mono { width: 28mm; height: auto; margin-bottom: 3mm; }
+    .name { font-size: 9pt; font-weight: 600; letter-spacing: 0.18em; color: #F1F4F7; margin-bottom: 1.5mm; }
+    .title { font-size: 6.5pt; letter-spacing: 0.15em; color: #287CFF; margin-bottom: 2.5mm; }
+    .tag { font-size: 5.5pt; letter-spacing: 0.25em; color: #C8D0D9; opacity: 0.7; }
+    .back .name { font-size: 8pt; }
+    .back .line { font-size: 7pt; opacity: 0.8; margin-top: 1.5mm; }
+    .back .accent { color: #287CFF; }
+    .corner { position: absolute; width: 12mm; height: 12mm; border: 0.4pt solid rgba(40,124,255,0.35); }
+    .corner.tl { top: 3mm; left: 3mm; border-right: none; border-bottom: none; }
+    .corner.br { bottom: 3mm; right: 3mm; border-left: none; border-top: none; }
+    @media print {
+      body { background: none; padding: 0; gap: 0; }
+      .card { box-shadow: none; page-break-after: always; }
+    }
+  </style>
+</head>
+<body>
+  <!-- FRONT -->
+  <div class="card front">
+    <div class="corner tl"></div>
+    <div class="corner br"></div>
+    <img class="mono" src="logo-light.svg" alt="MN" />
+    <div class="name">MOHAMMADALI NEMATI NEJAD</div>
+    <div class="title">CIVIL ENGINEER · PROJECT MANAGEMENT</div>
+    <div class="tag">ENGINEERING · EXECUTION · DESIGN</div>
+  </div>
+
+  <!-- BACK -->
+  <div class="card back">
+    <div class="corner tl"></div>
+    <div class="corner br"></div>
+    <div>
+      <div class="name">MOHAMMADALI NEMATI NEJAD</div>
+      <div class="line accent">+98 921 234 0352</div>
+      <div class="line accent">nematinejad.cv</div>
+    </div>
+    <div class="line">TEHRAN, IRAN</div>
+  </div>
+</body>
+</html>

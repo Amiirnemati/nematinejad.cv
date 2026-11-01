@@ -1,0 +1,386 @@
+[
+  {
+    "id": "arsham-building",
+    "slug": "arsham-building",
+    "title": {
+      "en": "Arsham Building",
+      "fa": "ساختمان آرشام"
+    },
+    "location": {
+      "en": "Shahid Babaei Highway, Tehran, Iran",
+      "fa": "بزرگراه شهید بابایی، تهران"
+    },
+    "type": {
+      "en": "Large-scale Residential & Commercial Development",
+      "fa": "توسعه مسکونی و تجاری در مقیاس بزرگ"
+    },
+    "area": {
+      "en": "260 Residential & Commercial Units",
+      "fa": "۲۶۰ واحد مسکونی و تجاری"
+    },
+    "status": {
+      "en": "Suspended",
+      "fa": "متوقف‌شده"
+    },
+    "role": {
+      "en": "Mechanical MEP Site Supervisor",
+      "fa": "ناظر سایت مکانیکال MEP"
+    },
+    "company": {
+      "en": "ABRAH SAZAN",
+      "fa": "آبراه‌سازان"
+    },
+    "ceo": "Reza Gazelzadeh",
+    "description": {
+      "en": "A large-scale residential and commercial development consisting of 260 units. Responsibilities included direct supervision of mechanical MEP site operations, coordination of execution teams, contractor coordination, progress monitoring, quality control, and follow-up of mechanical installation activities.",
+      "fa": "توسعه مسکونی و تجاری در مقیاس بزرگ شامل ۲۶۰ واحد. مسئولیت‌ها شامل نظارت مستقیم بر عملیات سایت مکانیکال MEP، هماهنگی تیم‌های اجرایی، هماهنگی پیمانکاران، پایش پیشرفت، کنترل کیفیت و پیگیری فعالیت‌های نصب مکانیکال بود."
+    },
+    "featured": true,
+    "order": 1
+  },
+  {
+    "id": "palestine-office",
+    "slug": "palestine-office-building",
+    "title": {
+      "en": "Palestine Office Building",
+      "fa": "ساختمان اداری فلسطین"
+    },
+    "location": {
+      "en": "Ferdowsi / Palestine area, Taleghani Street, Tehran",
+      "fa": "منطقه فردوسی / فلسطین، خیابان طالقانی، تهران"
+    },
+    "type": {
+      "en": "Full Building Renovation / Office Conversion / Design & Execution",
+      "fa": "بازسازی کامل ساختمان / تبدیل به اداری / طراحی و اجرا"
+    },
+    "area": {
+      "en": "Approx. 1,800 m² (4 floors × ~450 m²) + 500 m² landscape",
+      "fa": "حدود ۱٬۸۰۰ مترمربع (۴ طبقه × حدود ۴۵۰ متر) + ۵۰۰ متر فضای سبز"
+    },
+    "status": {
+      "en": "Completed",
+      "fa": "تکمیل‌شده"
+    },
+    "role": {
+      "en": "Project Execution / Site Management / Project Coordination",
+      "fa": "اجرای پروژه / مدیریت سایت / هماهنگی پروژه"
+    },
+    "company": {
+      "en": "PAYA PAJOOH ARZHAN",
+      "fa": "پایا پژوه آرژان"
+    },
+    "ceo": "Mehdi Amirzadeh Ardehi",
+    "description": {
+      "en": "Full-scale renovation and conversion of an existing four-floor building into a modern office complex. Involved renovation of all four floors, office space planning, security and reception spaces, service areas, landscape redesign, swimming pool execution, and mechanical room renovation.",
+      "fa": "بازسازی کامل و تبدیل یک ساختمان چهارطبقه موجود به مجموعه اداری مدرن. شامل بازسازی تمام طبقات، برنامه‌ریزی فضای اداری، فضاهای امنیتی و پذیرش، فضاهای خدماتی، بازطراحی محوطه، اجرای استخر و بازسازی موتورخانه."
+    },
+    "featured": true,
+    "order": 2
+  },
+  {
+    "id": "exir-office",
+    "slug": "exir-sanat-bakhtari-office",
+    "title": {
+      "en": "Exir Sanat Bakhtari Office Complex",
+      "fa": "مجتمع اداری اکسیر صنعت بختیاری"
+    },
+    "location": {
+      "en": "Valiasr Square, Tehran",
+      "fa": "میدان ولیعصر، تهران"
+    },
+    "type": {
+      "en": "Office Renovation & Fit-Out",
+      "fa": "بازسازی و فیت‌اوت اداری"
+    },
+    "area": {
+      "en": "Approx. 2,040 m² (5×120 m² + 4×180 m²)",
+      "fa": "حدود ۲٬۰۴۰ مترمربع"
+    },
+    "status": {
+      "en": "Completed",
+      "fa": "تکمیل‌شده"
+    },
+    "role": {
+      "en": "Project Management / Execution Coordination",
+      "fa": "مدیریت پروژه / هماهنگی اجرا"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "ceo": "Eng. Soroush Niromand",
+    "description": {
+      "en": "Office renovation and fit-out of multiple units totaling approximately 2,040 m². Responsibilities included existing space assessment, renovation planning, contractor and execution team coordination, architectural and MEP coordination, quality control, progress monitoring, material selection, consulting, procurement and supplier coordination.",
+      "fa": "بازسازی و فیت‌اوت اداری چندین واحد با مجموع حدود ۲٬۰۴۰ مترمربع. مسئولیت‌ها شامل ارزیابی فضای موجود، برنامه‌ریزی بازسازی، هماهنگی پیمانکاران و تیم اجرا، هماهنگی معماری و MEP، کنترل کیفیت، پایش پیشرفت، انتخاب مصالح، مشاوره، خرید و هماهنگی تأمین‌کنندگان."
+    },
+    "featured": true,
+    "order": 3
+  },
+  {
+    "id": "exir-lobby",
+    "slug": "exir-sanat-bakhtari-lobby",
+    "title": {
+      "en": "Exir Sanat Bakhtari Lobby",
+      "fa": "لابی اکسیر صنعت بختیاری"
+    },
+    "location": {
+      "en": "Central company building, Tehran",
+      "fa": "ساختمان مرکزی شرکت، تهران"
+    },
+    "type": {
+      "en": "Parking-to-Lobby Conversion / Office Fit-Out",
+      "fa": "تبدیل پارکینگ به لابی / فیت‌اوت اداری"
+    },
+    "area": {
+      "en": "Approx. 100 m²",
+      "fa": "حدود ۱۰۰ مترمربع"
+    },
+    "status": {
+      "en": "Completed",
+      "fa": "تکمیل‌شده"
+    },
+    "role": {
+      "en": "Project Management / Execution Coordination",
+      "fa": "مدیریت پروژه / هماهنگی اجرا"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "description": {
+      "en": "Conversion of an existing parking area into a professional office lobby. Included space assessment, conversion planning, interior execution, contractor coordination, quality control and final preparation.",
+      "fa": "تبدیل فضای پارکینگ موجود به لابی اداری حرفه‌ای. شامل ارزیابی فضا، برنامه‌ریزی تبدیل، اجرای داخلی، هماهنگی پیمانکار، کنترل کیفیت و آماده‌سازی نهایی."
+    },
+    "featured": false,
+    "order": 4
+  },
+  {
+    "id": "iranshahr-residential",
+    "slug": "iranshahr-residential",
+    "title": {
+      "en": "Iranshahr Residential Unit",
+      "fa": "واحد مسکونی ایرانشهر"
+    },
+    "location": {
+      "en": "Iranshahr Street, Tehran",
+      "fa": "خیابان ایرانشهر، تهران"
+    },
+    "type": {
+      "en": "Full Residential Renovation / Design & Build",
+      "fa": "بازسازی کامل مسکونی / طراحی و ساخت"
+    },
+    "area": {
+      "en": "Approx. 145 m²",
+      "fa": "حدود ۱۴۵ مترمربع"
+    },
+    "status": {
+      "en": "Completed",
+      "fa": "تکمیل‌شده"
+    },
+    "role": {
+      "en": "Project Management / Design & Execution Coordination",
+      "fa": "مدیریت پروژه / هماهنگی طراحی و اجرا"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "description": {
+      "en": "Full renovation of a residential unit from initial assessment and planning through execution. Scope included existing condition assessment, space planning, renovation planning, demolition, architectural execution, MEP coordination, contractor coordination, material selection and procurement, quality control and interior finishing.",
+      "fa": "بازسازی کامل یک واحد مسکونی از ارزیابی اولیه و برنامه‌ریزی تا اجرا. دامنه کار شامل ارزیابی وضعیت موجود، برنامه‌ریزی فضا، برنامه‌ریزی بازسازی، تخریب، اجرای معماری، هماهنگی MEP، هماهنگی پیمانکار، انتخاب و خرید مصالح، کنترل کیفیت و نازک‌کاری داخلی."
+    },
+    "featured": false,
+    "order": 5
+  },
+  {
+    "id": "fereshteh-conversion",
+    "slug": "fereshteh-space-conversion",
+    "title": {
+      "en": "Fereshteh Space Conversion",
+      "fa": "تبدیل فضای فرشته"
+    },
+    "location": {
+      "en": "Fereshteh Street, Tehran",
+      "fa": "خیابان فرشته، تهران"
+    },
+    "type": {
+      "en": "Residential-to-Service Space Conversion",
+      "fa": "تبدیل فضای مسکونی به خدماتی"
+    },
+    "area": {
+      "en": "Approx. 70 m²",
+      "fa": "حدود ۷۰ مترمربع"
+    },
+    "status": {
+      "en": "Completed",
+      "fa": "تکمیل‌شده"
+    },
+    "role": {
+      "en": "Project Management / Execution Coordination",
+      "fa": "مدیریت پروژه / هماهنگی اجرا"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "description": {
+      "en": "Conversion of an existing residential unit into a specialized service space including a women’s hair salon and massage center. Scope covered existing space assessment, new functional requirements, space planning, interior design coordination, renovation, contractor coordination, material selection, execution supervision and quality control.",
+      "fa": "تبدیل واحد مسکونی موجود به فضای خدماتی تخصصی شامل سالن مو و مرکز ماساژ بانوان. دامنه کار شامل ارزیابی فضا، نیازمندی‌های عملکردی جدید، برنامه‌ریزی فضا، هماهنگی طراحی داخلی، بازسازی، هماهنگی پیمانکار، انتخاب مصالح، نظارت اجرا و کنترل کیفیت."
+    },
+    "featured": false,
+    "order": 6
+  },
+  {
+    "id": "jewelry-retail",
+    "slug": "jewelry-retail-ghaem",
+    "title": {
+      "en": "Jewelry Retail Space – Ghaem Passage",
+      "fa": "فضای خرده‌فروشی طلا و جواهر – پاساژ قائم"
+    },
+    "location": {
+      "en": "Ghaem Shopping Passage, Tajrish, Tehran",
+      "fa": "پاساژ قائم، تجریش، تهران"
+    },
+    "type": {
+      "en": "Luxury Retail Fit-Out / Commercial Execution",
+      "fa": "فیت‌اوت خرده‌فروشی لوکس / اجرای تجاری"
+    },
+    "area": {
+      "en": "Approx. 25 m²",
+      "fa": "حدود ۲۵ مترمربع"
+    },
+    "status": {
+      "en": "Completed",
+      "fa": "تکمیل‌شده"
+    },
+    "role": {
+      "en": "Site Manager / Project Execution Coordinator",
+      "fa": "مدیر سایت / هماهنگ‌کننده اجرای پروژه"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "description": {
+      "en": "Execution of a specialized jewelry retail space within Ghaem Shopping Passage. Responsibilities included site management, contractor coordination, execution team coordination, follow-up of construction operations and coordination of all relevant project activities. Presentation focuses on premium retail craftsmanship and attention to detail.",
+      "fa": "اجرای فضای خرده‌فروشی تخصصی طلا و جواهر در پاساژ قائم. مسئولیت‌ها شامل مدیریت سایت، هماهنگی پیمانکاران، هماهنگی تیم اجرا، پیگیری عملیات ساختمانی و هماهنگی تمام فعالیت‌های مرتبط با پروژه. تمرکز بر کیفیت اجرا و توجه به جزئیات خرده‌فروشی لوکس."
+    },
+    "featured": false,
+    "order": 7
+  },
+  {
+    "id": "dastgheib-residential",
+    "slug": "shahid-dastgheib-residential",
+    "title": {
+      "en": "Shahid Dastgheib Residential Project",
+      "fa": "پروژه مسکونی شهید دستغیب"
+    },
+    "location": {
+      "en": "Tehran",
+      "fa": "تهران"
+    },
+    "type": {
+      "en": "Residential Renovation / Execution",
+      "fa": "بازسازی مسکونی / اجرا"
+    },
+    "area": {
+      "en": "—",
+      "fa": "—"
+    },
+    "status": {
+      "en": "Completed & Handed Over",
+      "fa": "تکمیل و تحویل‌شده"
+    },
+    "role": {
+      "en": "Project Management / Execution Coordination",
+      "fa": "مدیریت پروژه / هماهنگی اجرا"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "description": {
+      "en": "The residential project on Shahid Dastgheib Street has been completed and officially handed over to the respected client.",
+      "fa": "پروژه مسکونی در خیابان شهید دستغیب تکمیل و رسماً به کارفرمای محترم تحویل داده شده است."
+    },
+    "featured": false,
+    "order": 8
+  },
+  {
+    "id": "cafe-ketab-bagh",
+    "slug": "cafe-ketab-bagh",
+    "title": {
+      "en": "Cafe Ketab Bagh",
+      "fa": "کافه کتاب باغ"
+    },
+    "location": {
+      "en": "Azarshahr Street, Iranshahr, Tehran",
+      "fa": "خیابان آذرشهر، ایرانشهر، تهران"
+    },
+    "type": {
+      "en": "Commercial / Café & Bookstore / Design & Execution",
+      "fa": "تجاری / کافه و کتابفروشی / طراحی و اجرا"
+    },
+    "area": {
+      "en": "Interior >430 m² + Courtyard ~110–120 m²",
+      "fa": "فضای داخلی بیش از ۴۳۰ متر + حیاط حدود ۱۱۰–۱۲۰ متر"
+    },
+    "status": {
+      "en": "In Progress",
+      "fa": "در حال اجرا"
+    },
+    "role": {
+      "en": "Project Manager / Execution Coordination",
+      "fa": "مدیر پروژه / هماهنگی اجرا"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "designConsultant": "Harandi Engineering Company",
+    "description": {
+      "en": "An ongoing commercial project involving execution and development of a café and bookstore environment with substantial indoor and outdoor spaces. Architectural design provided by Harandi Engineering Company. Role involves coordinating execution activities, contractors, construction operations and project progress.",
+      "fa": "پروژه تجاری در حال اجرا شامل اجرای و توسعه فضای کافه و کتابفروشی با فضاهای داخلی و خارجی قابل توجه. طراحی معماری توسط شرکت مهندسی هرندی. نقش شامل هماهنگی فعالیت‌های اجرایی، پیمانکاران، عملیات ساختمانی و پیشرفت پروژه."
+    },
+    "featured": true,
+    "order": 9
+  },
+  {
+    "id": "amir-alley",
+    "slug": "amir-alley-residential",
+    "title": {
+      "en": "Amir Alley Residential Project",
+      "fa": "پروژه مسکونی کوچه امیر"
+    },
+    "location": {
+      "en": "Amir Alley, near Turkmenistan Street, Motahari Street, Tehran",
+      "fa": "کوچه امیر، نزدیک خیابان ترکمنستان، خیابان مطهری، تهران"
+    },
+    "type": {
+      "en": "Residential Renovation / Full Interior Execution",
+      "fa": "بازسازی مسکونی / اجرای کامل داخلی"
+    },
+    "area": {
+      "en": "Approx. 95–96 m²",
+      "fa": "حدود ۹۵–۹۶ مترمربع"
+    },
+    "status": {
+      "en": "In Progress",
+      "fa": "در حال اجرا"
+    },
+    "role": {
+      "en": "Project Manager / Design & Execution Coordination",
+      "fa": "مدیر پروژه / هماهنگی طراحی و اجرا"
+    },
+    "company": {
+      "en": "NESH STUDIO",
+      "fa": "نِش استودیو"
+    },
+    "description": {
+      "en": "A residential renovation project involving comprehensive interior construction and modernization. Scope includes space planning, design coordination, construction planning, electrical and mechanical installations, tile installation, replacement and renovation of plasterwork, removal of traditional decorative plaster moldings and replacement with clean modern plaster finishes, interior execution, material selection, contractor coordination, project management, quality control and final preparation. Design and execution management handled by Mohammadali Nemati Nejad.",
+      "fa": "پروژه بازسازی مسکونی شامل ساخت و مدرن‌سازی جامع داخلی. دامنه کار شامل برنامه‌ریزی فضا، هماهنگی طراحی، برنامه‌ریزی ساخت، تأسیسات برقی و مکانیکی، کاشی‌کاری، تعویض و بازسازی گچ‌کاری، حذف گچ‌بری‌های سنتی و جایگزینی با سطوح گچی مدرن و تمیز، اجرای داخلی، انتخاب مصالح، هماهنگی پیمانکار، مدیریت پروژه، کنترل کیفیت و آماده‌سازی نهایی. مدیریت طراحی و اجرا توسط محمدعلی نعمتی‌نژاد انجام می‌شود."
+    },
+    "featured": true,
+    "order": 10
+  }
+]

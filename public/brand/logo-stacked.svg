@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 200" fill="none" role="img" aria-label="Mohammadali Nemati Nejad">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#E8EDF2"/>
+      <stop offset="100%" stop-color="#A0AEC0"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#g)" transform="translate(20,0)">
+    <path d="M12 100V20h18l30 52 30-52h18v80H88V48L60 92 32 48v52H12z"/>
+    <path d="M128 100V20h18l42 60V20h18v80h-18L146 40v60h-18z"/>
+  </g>
+  <g fill="#C8D0D9" font-family="Space Grotesk, Inter, system-ui, sans-serif" font-weight="600" text-anchor="middle">
+    <text x="140" y="130" font-size="18" letter-spacing="0.15em">MOHAMMADALI</text>
+    <text x="140" y="154" font-size="18" letter-spacing="0.15em">NEMATI NEJAD</text>
+  </g>
+  <text x="140" y="180" fill="#287CFF" font-family="Inter, system-ui, sans-serif" font-size="10" letter-spacing="0.3em" font-weight="500" text-anchor="middle">ENGINEERING • EXECUTION • DESIGN</text>
+</svg>
